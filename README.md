@@ -1,4 +1,5 @@
 # API-Calls
-Newsletter Deployed on Heroku : 
+Newsletter Site : 
 https://damp-cove-39555.herokuapp.com/  
-Mailing List : Mailchimp
+Mailing List : Mailchimp  
+Deployment : Heroku
